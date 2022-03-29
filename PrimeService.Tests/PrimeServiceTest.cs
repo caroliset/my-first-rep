@@ -12,12 +12,12 @@ namespace PrimeService.Tests
         {
         }
 
-        /*[Test]
+        [Test]
         public async Task Test1()
         {
             Console.WriteLine("See you in the test output!");
             Assert.True(condition: true);
-        }*/
+        }
 
 
         [Test]
